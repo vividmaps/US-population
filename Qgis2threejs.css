@@ -75,6 +75,12 @@ body {
   bottom: 5px;
 }
 
+#footert {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+}
+
 #infobtn {
   cursor: pointer;
 }
